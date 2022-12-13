@@ -2,6 +2,9 @@ package com.xbory;
 
 public class C {
     public static void main(String[] args) {
-
+        System.out.println("kdsjf");
+        System.out.println("kdsjf");
+        System.out.println("kdsjf");
+        System.out.println("kdsjf");
     }
 }
